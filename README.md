@@ -17,9 +17,9 @@ reproducible analyses and publication-ready figures.
 `gtsummary` `Quarto` `R Markdown` `Git` `Excel`
 
 ## Portfolio
-- [Clinical Trial Survival Analysis](link)
-- [Logistic Regression + ROC Demo](link)
-- [Medical Data Cleaning Pipeline](link)
+- 🧬 **[Medical Data Cleaning Pipeline](https://eugenemofeoluwa.github.io/medical-data-cleaning-pipeline/report.html)** — Reproducible R pipeline for clinical data preparation (R Markdown).
+- 📊 **[Logistic Regression & ROC Analysis](https://eugenemofeoluwa.github.io/logistic-regression-roc/report.html)** — Binary outcome modeling and predictive performance (R Markdown).
+- ⏳ **[Survival Analysis](https://eugenemofeoluwa.github.io/survival-analysis/report.html)** — Kaplan-Meier estimation and Cox Proportional Hazards modeling (R Markdown).
 
 ## Currently working on
 - Building reproducible analysis templates for medical researchers
